@@ -1,4 +1,4 @@
-package com.cydeo.config.Respository;
+package com.cydeo.Respository;
 
 import com.cydeo.entity.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
